@@ -1,6 +1,6 @@
 The project was created by Matvej Aparkin
 CS SE HSE 238
-Varinat 1
+Variant 1
 #########################################
 -----------------------------------------
 Grades are sorted by the sum of their elements.
